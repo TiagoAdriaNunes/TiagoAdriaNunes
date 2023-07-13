@@ -1,12 +1,14 @@
 
 ### Hi there, I'm Tiago 👋
 
-- 🌱 I’m currently learning more about R, SQL and data analytics.
+- 🌱 I’m currently learning more about R, SQL, Python, Java and data analytics.
 
 ## 🔧 Technologies & Tools
 
 - R
 - SQL
+- Python
+- Java
 
 ## 📫 How to reach me:
 - Linkedin: [Link](https://www.linkedin.com/in/tiagoadrianunes/?locale=en_US)
