@@ -8,7 +8,6 @@
 - R
 - SQL
 - Python
-- Java
 
 ## 📫 How to reach me:
 - Linkedin: [Link](https://www.linkedin.com/in/tiagoadrianunes/?locale=en_US)
