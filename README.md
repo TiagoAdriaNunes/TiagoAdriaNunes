@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Tiago 👋
 
-- 🌱 I’m currently learning more about R, SQL, Python, Java and data analytics.
+- 🌱 I’m currently learning more about R, SQL, Python and data analytics.
 
 ## 🔧 Technologies & Tools
 
