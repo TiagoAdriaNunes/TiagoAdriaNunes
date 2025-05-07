@@ -1,14 +1,26 @@
+# 👋 Hi there, I'm Tiago Adria Nunes
 
-### Hi there, I'm Tiago 👋
+- I'm a data-driven professional with experience in **R**, **Python**, and **SQL**, currently focused on building interactive dashboards and data products using **R/Shiny**.
 
-- 🌱 I’m currently learning more about R, SQL, Python and data analytics. Check my portfolio: [link](https://tiagoadrianunes.github.io/portfolio/)
+- I specialize in delivering fast, scalable analytics solutions that enable quick business insights with a focus on usability, performance, and reproducibility.
 
-## 🔧 Technologies & Tools
+- Check out my portfolio: [tiagoadrianunes.github.io/portfolio](https://tiagoadrianunes.github.io/portfolio)
 
-- R
-- SQL
-- Python
+---
 
-## 📫 How to reach me:
-- Linkedin: [Link](https://www.linkedin.com/in/tiagoadrianunes/?locale=en_US)
-- E-mail: [tiagoadrianunes@gmail.com](mailto:tiagoadrianunes@gmail.com)
+##  Technologies & Tools
+
+- **Languages:** R, Python, SQL
+- **Frameworks:** Shiny, Rhino, Quarto
+- **Databases:** DuckDB, BigQuery, MySQL
+- **Visualization:** ggplot2, Plotly, Reactable, Leaflet
+- **DevOps & Versioning:** Git, GitHub Actions, Posit Connect
+
+---
+
+##  Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tiagoadrianunes)
+- [Email](mailto:tiagoadrianunes@gmail.com)
+
+---
