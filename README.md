@@ -12,8 +12,8 @@
 
 - **Languages:** R, Python, SQL
 - **Frameworks:** Shiny, Rhino, Golem
-- **Databases:** DuckDB, BigQuery, MySQL
-- **Visualization:** ggplot2, Plotly, Reactable, Leaflet, Quarto
+- **Databases:** DuckDB, BigQuery, MySQL, Oracle, PostgreSQL, Microsoft SQL Server, MongoDB
+- **Visualization:** ggplot2, Plotly, Reactable, DT, Leaflet, Quarto, highcharter, echarts4r
 - **DevOps & Versioning:** Git, GitHub Actions, Posit Connect
 
 ---
