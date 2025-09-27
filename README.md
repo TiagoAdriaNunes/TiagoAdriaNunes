@@ -11,7 +11,7 @@
 ##  Technologies & Tools
 
 - **Languages:** R, Python, SQL
-- **Frameworks:** Shiny, Rhino
+- **Frameworks:** Shiny, Rhino, Golem
 - **Databases:** DuckDB, BigQuery, MySQL
 - **Visualization:** ggplot2, Plotly, Reactable, Leaflet, Quarto
 - **DevOps & Versioning:** Git, GitHub Actions, Posit Connect
